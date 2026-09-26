@@ -1,2 +1,5 @@
 __MACOSX/
 .DS_Store
+graphify-out/
+venv/
+__pycache__/
