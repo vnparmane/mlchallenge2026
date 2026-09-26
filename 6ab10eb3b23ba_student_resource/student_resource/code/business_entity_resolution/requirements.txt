@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+scipy
+faiss-cpu
+sentence-transformers
+rapidfuzz
+jellyfish
+datasketch
+tqdm
